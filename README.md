@@ -1,4 +1,4 @@
-:warning: **This is just a clone of the original group project repository**: Original is kept private! :warning:
+:warning: **This is just a clone of the original, private group project repository**: Scroll at the end for collaborators! :warning:
 # Placeholder
 
 A responsive and internationalized eCommerce application where users can browse, buy, and sell products.  
@@ -17,3 +17,34 @@ A responsive and internationalized eCommerce application where users can browse,
 ## Demonstration
 YouTube Link: https://www.youtube.com/watch?v=aLGYRiAF4z0 
 [![Placeholder Demonstration](https://github.com/local-advocate/Placeholder/blob/main/Placeholder.PNG)](https://www.youtube.com/watch?v=aLGYRiAF4z0 "Placeholder Demonstration")
+
+## Scripts
+The following scripts are meant to be run from the most parent directory of this repository.
+```bash
+# Install the required modules
+npm run installs
+```
+```bash
+# Start the databases (uses ports 5432-5436, by default)
+npm run dockers-up
+```
+```bash
+# Run the development servers (uses ports 3000-3002, by default)
+npm run dev
+```
+```bash
+# Containerise the application
+npm run containerised
+```
+```bash
+npm run tests  # Run the tests (either one)
+npm run lint   # Run lint
+npm run zip    # Zip the project
+```
+
+## Collaborators
+1. [Arthur Foy](https://github.com/FoyArthur)
+1. [Hang Xian](https://github.com/hsxian2277)
+1. [Michelle Hernandez](https://github.com/mhern199)
+1. [Ruchit Patel](https://github.com/local-advocate)
+1. [Timothy Vermeersch](https://github.com/Timothy-Vermeersch)
