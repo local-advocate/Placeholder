@@ -1,5 +1,7 @@
-:warning: **This is just a clone of the original, private group project repository**: Scroll at the end for collaborators! :warning:  
-:warning: **Commit history, CI/CD logs, and Project(s) are excluded from this repository**: Only available inside the original! :warning:
+:warning::warning:  
+&emsp;&emsp;**This is just a clone of the original, private group project repository**: Scroll at the end for collaborators!  
+&emsp;&emsp;**Commit history, CI/CD logs, Workflows, and Project(s) are excluded from this repository**: Only available inside the original!  
+:warning::warning:  
 
 # Placeholder
 
