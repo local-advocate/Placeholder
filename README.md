@@ -1,7 +1,9 @@
-:warning::warning:  
-&emsp;&emsp;**This is just a clone of the original, private group project repository**: Scroll at the end for collaborators!  
-&emsp;&emsp;**Commit history, CI/CD logs, Workflows, and Project(s) are excluded from this repository**: Only available inside the original!  
-:warning::warning:  
+<p align='center'>:warning::warning:  </p>
+<p align='center'>
+<b>This is just a clone of the original, private group project repository</b>: Scroll at the end for collaborators!<br>
+<b>Commit history, CI/CD logs, Workflows, and Project(s) are excluded from this repository</b>: Only available inside the original!  
+</p>
+<p align='center'>:warning::warning:  </p>
 
 # Placeholder
 
