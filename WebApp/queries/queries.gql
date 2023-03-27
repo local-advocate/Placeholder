@@ -1,0 +1,25 @@
+query login {
+  login(email: "user1111@gmail.com", password: "Test User 1111") {
+    accessToken
+    name
+  }
+}
+
+mutation signup {
+  signup(
+        input:
+        {
+          email: "${post.email}",
+          password: "${post.password}",
+          name: "${post.name}"
+        }
+        ) 
+        { id, email, name, roles }
+}
+
+query getAllCategory {
+  categories{
+    category {id name}
+    subcategory {id name}
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "name": "placeholder",
+  "version": "1.0.0",
+  "description": "eCommerce WebApp",
+  "author": "Group4",
+  "license": "UNLICENSED",
+  "repository": "none",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "lint": "next lint --fix",
+    "test": "jest --runInBand --forceExit",
+    "test:silent": "jest --runInBand --silent --forceExit",
+    "test:watch": "jest --runInBand --watchAll --forceExit",
+    "zip": "bestzip Project.Submission.zip tsconfig.json src/* sql/*",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "devDependencies": {
+    "@jest/globals": "*",
+    "@testing-library/jest-dom": "*",
+    "@testing-library/react": "*",
+    "@testing-library/user-event": "*",
+    "@types/bcrypt": "*",
+    "@types/jsonwebtoken": "*",
+    "@types/node": "*",
+    "@types/pg": "*",
+    "@types/react": "*",
+    "@types/react-dom": "*",
+    "@types/supertest": "*",
+    "@types/testing-library__jest-dom": "*",
+    "bestzip": "*",
+    "eslint": "*",
+    "eslint-config-next": "*",
+    "eslint-config-typescript": "*",
+    "jest": "*",
+    "jest-environment-jsdom": "*",
+    "msw": "*",
+    "supertest": "*",
+    "ts-jest": "*",
+    "ts-node": "*",
+    "ts-postgres": "*",
+    "typescript": "*",
+    "whatwg-fetch": "*"
+  },
+  "dependencies": {
+    "@emotion/react": "*",
+    "@emotion/styled": "*",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "*",
+    "@next/font": "*",
+    "bcrypt": "*",
+    "graphql": "*",
+    "graphql-request": "*",
+    "graphql-yoga": "*",
+    "jsonwebtoken": "*",
+    "i18next": "^22.4.10",
+    "next": "*",
+    "next-i18next": "^13.1.5",
+    "next-router-mock": "^0.9.1",
+    "pg": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-i18next": "^12.2.0",
+    "reflect-metadata": "*",
+    "type-graphql": "*"
+  },
+  "coverageThreshold": {
+    "global": {
+      "branches": 80,
+      "functions": 80,
+      "lines": 80,
+      "statements": 80
+    }
+  },
+  "eslintConfig": {
+    "extends": [
+      "next/core-web-vitals",
+      "typescript"
+    ],
+    "parserOptions": {
+      "ecmaVersion": 13
+    },
+    "rules": {
+      "indent": [
+        "warn",
+        2
+      ]
+    }
+  }
+}
