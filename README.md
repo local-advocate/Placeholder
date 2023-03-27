@@ -43,7 +43,7 @@ npm run dev
 npm run containerised
 ```
 ```bash
-npm run tests  # Run the tests (either one)
+npm run tests  # Run the tests  
 npm run lint   # Run lint
 npm run zip    # Zip the project
 ```
