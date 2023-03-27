@@ -1,4 +1,6 @@
-:warning: **This is just a clone of the original, private group project repository**: Scroll at the end for collaborators! :warning:
+:warning: **This is just a clone of the original, private group project repository**: Scroll at the end for collaborators! :warning:  
+:warning: **Commit history, CI/CD logs, and Project(s) are excluded from this repository**: Only available inside the original! :warning:
+
 # Placeholder
 
 A responsive and internationalized eCommerce application where users can browse, buy, and sell products.  
