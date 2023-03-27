@@ -17,8 +17,8 @@ A responsive and internationalized eCommerce application where users can browse,
 * Technology stack: TypeScript, TypeGraphQL, NextJS, ExpressJS, React, PostgreSQL.  
 
 ## Demonstration
-YouTube Link: https://www.youtube.com/watch?v=aLGYRiAF4z0 
-[![Placeholder Demonstration](https://github.com/local-advocate/Placeholder/blob/main/Placeholder.PNG)](https://www.youtube.com/watch?v=aLGYRiAF4z0 "Placeholder Demonstration")
+YouTube Link: https://www.youtube.com/watch?v=kDQxidw6oag  
+[![Placeholder Demonstration](https://github.com/local-advocate/Placeholder/blob/main/Placeholder.PNG)](https://www.youtube.com/watch?v=kDQxidw6oag "Placeholder Demonstration")
 
 ## Scripts
 The following scripts are meant to be run from the most parent directory of this repository.
